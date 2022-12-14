@@ -1,0 +1,8 @@
+str.ct
+for
+return drugs return
+drugs return return
+drugs return return
+return drugs return
+//  empty line with -e regex -e ^print
+//  .*
